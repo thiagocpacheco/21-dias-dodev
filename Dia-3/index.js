@@ -1,10 +1,6 @@
 let seuNome = prompt("Qual o seu nome ");
 let suaIdade = Number(prompt("qual a sua idade"));
-let suaAltura = Number(
-  prompt(
-    "Qual a sua altura em m, por favor use ponto para declarar a altura e não vírgula"
-  )
-);
+let suaAltura = Number(prompt("Qual a sua altura em m"));
 let seuPeso = Number(prompt("Qual o seu peso"));
 
 let anoNascimento = 2023 - suaIdade;
