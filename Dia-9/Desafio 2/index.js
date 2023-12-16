@@ -32,3 +32,4 @@ for (let ano = 1; ano <= 10; ano++) {
   aumento *= 2;
   console.log(`${2023 + ano}:  R$${salarioCliente}`);
 }
+// teste
