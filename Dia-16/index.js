@@ -40,6 +40,7 @@ function excluirCadastro(nome, senha) {
     alert("Nome e senha excluídos com sucesso");
   }
 }
+//teste de comentário
 
 while (continuar) {
   opcaoDesejada();
